@@ -1,1 +1,1 @@
-Mi primero repo en GitHub - DinhoImbe
+ Mi primero repo en GitHub con el usuario DinhoImbe
